@@ -588,22 +588,5 @@ The primary contribution is an integrated decision-support framework that connec
 
 The results indicate that short tenure, month-to-month contracts, limited support services, and selected billing characteristics are strongly associated with churn. However, practical retention decisions should incorporate customer value, intervention cost, model calibration, and the limitations of observational data.
 
-## References
-
-The project design was informed by recent customer-churn research, including:
-
-- [Wagh et al. (2024) — Customer churn prediction in telecom sector using machine learning techniques](https://doi.org/10.1016/j.rico.2023.100342)
-- [Imani et al. (2025) — Customer churn prediction: A systematic review of recent advances, trends, and challenges](https://doi.org/10.3390/make7030105)
-- [Chang et al. (2024) — Prediction of customer churn behavior using machine learning models](https://doi.org/10.3390/a17060231)
-- [Poudel et al. (2024) — Explaining customer churn prediction using tabular machine learning models](https://doi.org/10.1016/j.mlwa.2024.100567)
-- [Manzoor et al. (2024) — Review and recommendations for business practitioners](https://doi.org/10.1109/ACCESS.2024.3402092)
-- [Sikri et al. (2024) — Machine-learning-driven churn prediction and data balancing](https://doi.org/10.1038/s41598-024-63750-0)
-
-## Author
-
-**Yin Yin**  
-Master of Data Science Student
-
 ---
 
-If you find this project useful, please consider starring the repository.
